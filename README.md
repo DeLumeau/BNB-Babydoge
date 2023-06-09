@@ -5,8 +5,8 @@ Built with Create React App + Typescript + Web3 + Chakra-UI
 ## Instruction
 
 ```
-git clone https://github.com/RikaiSoft/wallet-test-project.git
-cd wallet-test-project
+git clone https://github.com/RikaiSoft/BNB-Babydoge.git
+cd BNB-Babydoge
 npm install
 npm run start
 ```
